@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 <?php
 /**
  *  Created by:      Brandon Mitchell
