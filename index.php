@@ -9,7 +9,7 @@
 	//phpinfo();
 
 	echo $_SERVER["USER"] . "<br/>";
-$x = "hiding";
+	$x = "Version 1";
 
 
 	function testFunction($n) {
