@@ -9,5 +9,8 @@
 echo "Test";
 
 	echo "Edit done from phpStorm";
+	
+	echo "Edit done from github.com";
+	echo "Edit done from phpStorm";
 
 	echo "Also done from phpstorm";
