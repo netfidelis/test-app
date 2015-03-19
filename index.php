@@ -9,7 +9,7 @@
 	//phpinfo();
 
 	echo $_SERVER["USER"] . "<br/>";
-	$x = "Version 1";
+	$x = "Version 2";
 
 
 	function testFunction($n) {
