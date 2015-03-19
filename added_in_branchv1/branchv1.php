@@ -14,3 +14,5 @@ echo "Test";
 	echo "Edit done from github.com";
 
 	echo "Also done from phpstorm";
+
+	echo "2";
